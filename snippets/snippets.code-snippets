@@ -1,1 +1,61 @@
-{}
+{
+  "NEXT.JS Modules Class div": {
+    "prefix": "cmdiv",
+    "body": ["<div className={`${styles.${1:className}}`}>$0</div>"],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class img": {
+    "prefix": "cmimg",
+    "body": ["<img className={`${styles.${1:className}}`} src={} alt={``} />"],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class Image": {
+    "prefix": "cmImage",
+    "body": [
+      "<Image className={`${styles.${1:className}}`} src={} alt={``} />"
+    ],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class input": {
+    "prefix": "cminput",
+    "body": [
+      "<input type={`text`} className={`${styles.${1:className}}`}>$0</input>"
+    ],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class button": {
+    "prefix": "cmbutton",
+    "body": ["<button className={`${styles.${1:className}}`}>$0</button>"],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class p": {
+    "prefix": "cmp",
+    "body": ["<p className={`${styles.${1:className}}`}>$0</p>"],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class ul": {
+    "prefix": "cmul",
+    "body": ["<ul className={`${styles.${1:className}}`}>$0</ul>"],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class li": {
+    "prefix": "cmli",
+    "body": ["<li className={`${styles.${1:className}}`}>$0</li>"],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class span": {
+    "prefix": "cmspan",
+    "body": ["<span className={`${styles.${1:className}}`}>$0</span>"],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class header": {
+    "prefix": "cmheader",
+    "body": ["<header className={`${styles.${1:className}}`}>$0</header>"],
+    "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class footer": {
+    "prefix": "cmfooter",
+    "body": ["<footer className={`${styles.${1:className}}`}>$0</footer>"],
+    "description": "Create a div element with a CSS Modules class name"
+  }
+}
