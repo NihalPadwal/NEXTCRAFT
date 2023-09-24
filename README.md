@@ -14,6 +14,7 @@ Unleash the full potential of your coding journey with the NEXT CRAFT Extension!
 
 ## Usage Instructions
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/wOP7hom"  ><a href="//imgur.com/a/wOP7hom">Next Crafts How to setup</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ![How to use GIF](https://imgur.com/a/fUadD6r)
 
 1. Open a JavaScript, TypeScript, or JSX file in Visual Studio Code.
