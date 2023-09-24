@@ -14,7 +14,7 @@ Unleash the full potential of your coding journey with the NEXT CRAFT Extension!
 
 ## Usage Instructions
 
-![How to use GIF](images/how-to-use.gif)
+![How to use GIF](https://imgur.com/a/fUadD6r)
 
 1. Open a JavaScript, TypeScript, or JSX file in Visual Studio Code.
 2. Start typing one of the exciting NEXT CRAFT snippet prefixes (e.g., `cmdiv` for a div element) and hit `Tab` to trigger the magic.
