@@ -57,5 +57,45 @@
     "prefix": "cmfooter",
     "body": ["<footer className={`${styles.${1:className}}`}>$0</footer>"],
     "description": "Create a div element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class a": {
+    "prefix": "cma",
+    "body": ["<a className={`${styles.${1:className}}`}>$0</a>"],
+    "description": "Create a a element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class ol": {
+    "prefix": "cma",
+    "body": ["<ol className={`${styles.${1:className}}`}>$0</ol>"],
+    "description": "Create a ol element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class table": {
+    "prefix": "cmtable",
+    "body": ["<table className={`${styles.${1:className}}`}>$0</table>"],
+    "description": "Create a table element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class h1": {
+    "prefix": "cmh1",
+    "body": ["<h1 className={`${styles.${1:className}}`}>$0</h1>"],
+    "description": "Create a h1 table element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class h2": {
+    "prefix": "cmh2",
+    "body": ["<h2 className={`${styles.${1:className}}`}>$0</h2>"],
+    "description": "Create a h2 table element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class Head": {
+    "prefix": "cmHead",
+    "body": ["<Head className={`${styles.${1:className}}`}>$0</Head>"],
+    "description": "Create a Head table element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class form": {
+    "prefix": "cmform",
+    "body": ["<form className={`${styles.${1:className}}`}>$0</form>"],
+    "description": "Create a form table element with a CSS Modules class name"
+  },
+  "NEXT.JS Modules Class video": {
+    "prefix": "cmvideo",
+    "body": ["<video src={} className={`${styles.${1:className}}`} />"],
+    "description": "Create a form table element with a CSS Modules class name"
   }
 }
