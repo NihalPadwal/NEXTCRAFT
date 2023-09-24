@@ -8,7 +8,7 @@
   "displayName": "NEXT CRAFT",
   "icon": "images/logo.png",
   "description": "Boost your coding productivity with NEXTCRAFT, a collection of essential code snippets for Visual Studio Code. Write code faster and smarter!",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.82.0"
   },
