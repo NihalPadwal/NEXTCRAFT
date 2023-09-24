@@ -5,9 +5,9 @@
   },
   "name": "nextcraft",
   "publisher": "nihalpadwal",
-  "displayName": "NEXTCRAFT",
+  "displayName": "NEXT CRAFT",
   "description": "Boost your coding productivity with NEXTCRAFT, a collection of essential code snippets for Visual Studio Code. Write code faster and smarter!",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.82.0"
   },
