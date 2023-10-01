@@ -14,10 +14,10 @@ Unleash the full potential of your coding journey with the NEXT CRAFT Extension!
 
 ## Usage Instructions
 
-![How to use GIF](https://i.imgur.com/V708qmR.gif)
+![How to use GIF](https://i.imgur.com/vjRyul2.gif)
 
 1. Open a JavaScript, TypeScript, or JSX file in Visual Studio Code.
-2. Start typing one of the exciting NEXT CRAFT snippet prefixes (e.g., `cmdiv` for a div element) and hit `Tab` to trigger the magic.
+2. Start typing one of the exciting NEXT CRAFT snippet prefixes (e.g., `ncdiv` for a div element) and hit `Tab` to trigger the magic.
 3. Watch as the snippet transforms into a fully-styled, CSS Modules-powered HTML element.
 4. Customize the class name, attributes, and content to your liking.
 5. Enjoy a smoother, more exciting coding experience with NEXT CRAFT!

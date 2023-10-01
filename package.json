@@ -5,10 +5,10 @@
   },
   "name": "nextcraft",
   "publisher": "nihalpadwal",
-  "displayName": "NEXT CRAFT",
+  "displayName": "NEXT CRAFT ( Snippets for Styled Component )",
   "icon": "images/logo.png",
   "description": "Boost your coding productivity with NEXTCRAFT, a collection of essential code snippets for Visual Studio Code. Write code faster and smarter!",
-  "version": "1.0.4",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.82.0"
   },
